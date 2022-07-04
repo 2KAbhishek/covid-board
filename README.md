@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/covid-board">covid-board</a></h1>
+<h1><a href="https://2kabhishek.github.io/covid-board">Covid Board</a></h1>
 
 <a href="https://github.com/2KAbhishek/covid-board/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/covid-board?style=plastic&color=white&label=License"> </a>
@@ -23,7 +23,7 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
+<h3>Track Covid accross the globe 😷🌏</h3>
 
 <figure>
   <img src= "images/screenshot.png" alt="covid-board Demo" style="width:100%">
@@ -35,17 +35,17 @@
 
 ## What is this
 
-covid-board is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+Covid Board is a dashboard that tracks the Covid-19 pandemic across the globe.
 
 ## Inspiration
 
-covid-board was inspired by `<reason/idea>`.
+Seen too many versions of the dashboard, and wanted to make one myself.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `a web browser, a live web server`
 
 ## Getting covid-board
 
@@ -54,51 +54,30 @@ To install covid-board, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/covid-board
 cd covid-board
-<install_command>
 ```
 
 ## Using covid-board
 
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
+Run live demo:
 
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
-```
+open `index.html` preview using live server
 
 ## How it was built
 
-covid-board was built using `<tech/library>`
+covid-board was built using `VS Code, D3.js, HTML, CSS, & JavaScript`.
 
 ## Challenges faced
 
-While building covid-board the main challenges were `<issue/difficulty>`
+Figuring out `D3.js` and it's syntax initially was tricky.
 
 ## What I learned
 
-While building covid-board I `<learned/accomplished>` about `<learning/accomplishment>`
+- Learned about `D3.js` and it's usage
+- Built a live world map.
 
 ## What's next
 
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+Make more projects with `D3.js`
 
 Hit the ⭐ button if you found this useful.
 
